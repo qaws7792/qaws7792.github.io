@@ -1,13 +1,13 @@
 # Site
 title:              달
-bio:                '간단한 단일 페이지 지킬 '
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'one column blog'
+description:        "블로그 설명"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             ko_KOR
 url:                https://qaws7792.github.io
 
 # Jekyll
