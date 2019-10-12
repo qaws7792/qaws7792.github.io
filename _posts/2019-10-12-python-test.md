@@ -6,6 +6,7 @@ excerpt: "Custom written post descriptions are the way to go... if you're not la
 tag:
 - sample
 - post
+- python
 comments: true
 ---
 
