@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-<iframe src="http://cld2099web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" allow="autoplay" id="audio"></iframe>
+<iframe width="500" height="300" src="http://cld2099web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" allow="autoplay" id="audio"></iframe>
 
 출처: https://hongku.tistory.com/364 [IT에 취하개 :: 취미로 하는 개발]
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
