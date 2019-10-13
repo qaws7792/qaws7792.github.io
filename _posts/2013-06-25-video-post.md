@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-<iframe width="500" height="300" src="http://cld2099web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" allow="autoplay" id="audio"></iframe>
+<iframe width="500" height="300" src="http://cld2099web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" id="audio"></iframe>
 
 
 <audio controls="controls">
